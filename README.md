@@ -17,7 +17,7 @@
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
-## Meios de contato
+## Social
 <div>
   <a href="www.linkedin.com/in/andré-júnior-5234b22a2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
