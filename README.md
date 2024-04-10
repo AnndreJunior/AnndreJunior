@@ -2,7 +2,9 @@
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AnndreJunior&show_icons=true&theme=tokyonight" />
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnndreJunior&theme=tokyonight&layout=compact" />
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnndreJunior&theme=tokyonight&layout=compact" />
 </div>
 
 ## Minhas pricipais skills
